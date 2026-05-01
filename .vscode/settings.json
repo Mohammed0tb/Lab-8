@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Lab 8 Worksheet.slnx"
+    "dotnet.defaultSolution": "Lab 8.slnx"
 }
